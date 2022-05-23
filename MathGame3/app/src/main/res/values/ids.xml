@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonAdd" type="id" />
+    <item name="buttonSub" type="id" />
+    <item name="buttonMul" type="id" />
+    <item name="buttonNext" type="id" />
+    <item name="textView3" type="id" />
+    <item name="textViewScore" type="id" />
+    <item name="textView5" type="id" />
+    <item name="textViewTime" type="id" />
+    <item name="buttonOk" type="id" />
+    <item name="textViewLife" type="id" />
+    <item name="textView7" type="id" />
+    <item name="textViewQuestion" type="id" />
+    <item name="editTextAnswer" type="id" />
+    <item name="textView" type="id" />
+    <item name="textViewResult" type="id" />
+    <item name="buttonAgain" type="id" />
+    <item name="buttonExit" type="id" />
+</resources>
